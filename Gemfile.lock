@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    hgdoc (0.0.1)
+      byebug (= 9.0.6)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    byebug (9.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (= 1.13.6)
+  hgdoc!
+
+RUBY VERSION
+   ruby 2.3.3p222
+
+BUNDLED WITH
+   1.13.6
